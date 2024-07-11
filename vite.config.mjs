@@ -33,6 +33,7 @@ export default defineConfig({
       },
     }),
   ],
+  base: "/friedland_gate/",
   define: { 'process.env': {} },
   resolve: {
     alias: {

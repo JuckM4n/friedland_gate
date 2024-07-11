@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/friedland_gate/dist/'
+  publicPath: '/friedland_gate/docs/'
 }

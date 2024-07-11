@@ -1,0 +1,20 @@
+[
+  {
+	"text": "текст1"
+  },
+  {
+	"text": "текст2",
+	"icon": "mdi-arm-flex"
+  },
+  {
+	"text": "текст3"
+  },
+  {
+	"text": "текст4",
+	"icon": "mdi-alien-outline"
+  },
+  {
+	"text": "текст5",
+	"icon": "mdi-alien-outline"
+  }
+]

@@ -1,0 +1,28 @@
+.app {
+  &__card {
+	margin-bottom: 16px;
+  }
+
+  &__card-title {
+	font-size: 18px;
+	font-weight: bold;
+  }
+
+  &__card-text {
+	padding: 16px;
+  }
+
+  &__flex-container {
+	display: flex;
+	justify-content: space-between;
+  }
+
+  &__card_half {
+	width: 50%;
+	margin-right: 16px;
+
+	&:last-child {
+	  margin-right: 0;
+	}
+  }
+}

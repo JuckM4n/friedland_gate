@@ -1,0 +1,23 @@
+.tag-list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+
+  &_align_left {
+	justify-content: flex-start;
+  }
+
+  &_align_width {
+	justify-content: space-between;
+  }
+
+  &__item {
+	margin: 0 8px;
+	display: flex;
+	align-items: center;
+  }
+
+  &__item + &__item {
+	margin-left: 16px;
+  }
+}
